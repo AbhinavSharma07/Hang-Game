@@ -2,7 +2,7 @@
 
 This is a classic implementation of the Hangman game in Python. Players can guess letters to uncover a hidden word, and a hangman figure is drawn for each incorrect guess.
 
-## How to Play
+## How to Play--
 
 1. Run the `hangman.py` script in a Python environment.
 2. Follow the prompts to guess letters and uncover the hidden word.
